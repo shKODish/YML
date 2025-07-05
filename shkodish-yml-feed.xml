@@ -33,7 +33,7 @@
         <param name="Есть видеоуроки">true</param>
         <param name="Есть домашние работы">true</param>
         <param name="Есть бесплатная часть">true</param>
-        <param name="Продолжительность" unit="занятие">36</param>
+        <param name="Продолжительность" unit="месяц">9</param>
         <param name="Часы в неделю">1</param>
         <param name="Результат обучения">Сертификат</param>
         <param name="План" unit="Модуль 1" hours="12" order="1"><![CDATA[
@@ -66,7 +66,7 @@
         <param name="Есть видеоуроки">true</param>
         <param name="Есть домашние работы">true</param>
         <param name="Есть бесплатная часть">true</param>
-        <param name="Продолжительность" unit="занятие">36</param>
+        <param name="Продолжительность" unit="месяц">9</param>
         <param name="Часы в неделю">1</param>
         <param name="Результат обучения">Сертификат</param>
         <param name="План" unit="Модуль 1" hours="12" order="1"><![CDATA[
@@ -101,7 +101,7 @@
         <param name="Есть видеоуроки">true</param>
         <param name="Есть домашние работы">true</param>
         <param name="Есть бесплатная часть">true</param>
-        <param name="Продолжительность" unit="занятие">36</param>
+        <param name="Продолжительность" unit="месяц">9</param>
         <param name="Часы в неделю">1</param>
         <param name="Результат обучения">Сертификат</param>
         <param name="План" unit="Модуль 1" hours="12" order="1"><![CDATA[
@@ -136,7 +136,7 @@
         <param name="Есть видеоуроки">true</param>
         <param name="Есть домашние работы">true</param>
         <param name="Есть бесплатная часть">true</param>
-        <param name="Продолжительность" unit="занятие">36</param>
+        <param name="Продолжительность" unit="месяц">9</param>
         <param name="Часы в неделю">1</param>
         <param name="Результат обучения">Сертификат</param>
         <param name="План" unit="Модуль 1" hours="12" order="1"><![CDATA[
