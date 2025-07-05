@@ -1,0 +1,35 @@
+<offer id="scratchjr-5-7" available="true">
+  <url>https://shkodish.ru/scratchjr/tproduct/1094718466-284053417772-scratch-junior</url>
+  <price>0</price>
+  <param name="Ежемесячная цена">4320</param>
+  <currencyId>RUR</currencyId>
+  <categoryId>10011</categoryId> <!-- Программирование (школьный предмет) -->
+  <param name="Дополнительная категория">116</param> <!-- Разработка игр -->
+  <param name="Дополнительная категория">109</param> <!-- Алгоритмы и структуры данных -->
+  <name>Scratch Junior для детей 5–7 лет</name>
+  <description><![CDATA[
+    Курс программирования для самых маленьких. Возраст 5–7 лет. Старт от 4320 ₽ за 4 индивидуальных занятия. Бесплатный пробный урок. Дети изучают интерфейс ScratchJr, учатся логике, анимации и создают первые проекты.
+  ]]></description>
+  <picture>https://static.tildacdn.com/stor3139-3138-4664-a162-656339373436/73146693.svg</picture>
+  <vendor>Школа программирования для детей «шКОДишь»</vendor>
+
+  <param name="Формат обучения">С преподавателем</param>
+  <param name="Сложность">Для новичков</param>
+  <param name="Тип обучения">Курс</param>
+  <param name="Есть видеоуроки">true</param>
+  <param name="Есть домашние работы">true</param>
+  <param name="Есть бесплатная часть">true</param>
+  <param name="Продолжительность" unit="занятие">36</param>
+  <param name="Часы в неделю">1</param>
+  <param name="Результат обучения">Сертификат</param>
+
+  <param name="План" unit="Модуль 1" hours="12" order="1"><![CDATA[
+    Введение в ScratchJr: изучение интерфейса, основные команды, движение и простая анимация.
+  ]]></param>
+  <param name="План" unit="Модуль 2" hours="12" order="2"><![CDATA[
+    Проекты с персонажами: смена фонов, взаимодействие объектов, циклы, логика действий.
+  ]]></param>
+  <param name="План" unit="Модуль 3" hours="12" order="3"><![CDATA[
+    Самостоятельные мини-проекты: рассказы, игры, квесты. Развитие творческого и логического мышления.
+  ]]></param>
+</offer>
