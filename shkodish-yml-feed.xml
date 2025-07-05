@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<!-- yml_catalog date="2025-07-05 19:10" -->
+<yml_catalog date="2025-07-05 19:10">
   <shop>
     <name>Школа программирования шКОДишь</name>
     <url>https://shkodish.ru/</url>
@@ -154,4 +154,4 @@
       </offer>
     </offers>
   </shop>
-<!-- /yml_catalog -->
+</yml_catalog>
